@@ -11,6 +11,11 @@ app.use(bodyParser.json());
 // Load data anime dari file JSON
 const animeData = require('./data/anime-api.json');
 
+// Endpoint untuk root path agar tidak menampilkan "Cannot GET /"
+app.get('/', (req, res) => {
+    res.send('API is working. Access endpoints at /api/anime');
+});
+
 // Endpoint untuk mendapatkan semua anime
 app.get('/api/anime', (req, res) => {
     res.json(animeData);
