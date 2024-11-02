@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Attack on Titan Season 3",
+        "year": 2018,
+        "genre": ["Action", "Drama", "Fantasy"]
+    },
+    {
+        "id": 2,
+        "title": "Overlord III",
+        "year": 2018,
+        "genre": ["Action", "Fantasy", "Magic"]
+    },
+    {
+        "id": 3,
+        "title": "Sword Art Online: Alicization",
+        "year": 2018,
+        "genre": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+        "id": 4,
+        "title": "Demon Slayer",
+        "year": 2019,
+        "genre": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+        "id": 5,
+        "title": "The Rising of the Shield Hero",
+        "year": 2019,
+        "genre": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+        "id": 6,
+        "title": "Dr. Stone",
+        "year": 2019,
+        "genre": ["Adventure", "Sci-Fi"]
+    },
+    {
+        "id": 7,
+        "title": "Vinland Saga",
+        "year": 2019,
+        "genre": ["Action", "Adventure", "Historical"]
+    },
+    {
+        "id": 8,
+        "title": "Kaguya-sama: Love is War",
+        "year": 2019,
+        "genre": ["Comedy", "Romance", "Psychological"]
+    },
+    {
+        "id": 9,
+        "title": "Beastars",
+        "year": 2019,
+        "genre": ["Drama", "Psychological"]
+    },
+    {
+        "id": 10,
+        "title": "Jujutsu Kaisen",
+        "year": 2020,
+        "genre": ["Action", "Supernatural", "Horror"]
+    },
+    {
+        "id": 11,
+        "title": "Tower of God",
+        "year": 2020,
+        "genre": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+        "id": 12,
+        "title": "The God of High School",
+        "year": 2020,
+        "genre": ["Action", "Martial Arts", "Superpower"]
+    },
+    {
+        "id": 13,
+        "title": "Re:Zero - Starting Life in Another World - Season 2",
+        "year": 2020,
+        "genre": ["Fantasy", "Drama", "Psychological"]
+    },
+    {
+        "id": 14,
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "year": 2021,
+        "genre": ["Adventure", "Fantasy", "Drama"]
+    },
+    {
+        "id": 15,
+        "title": "Horimiya",
+        "year": 2021,
+        "genre": ["Comedy", "Romance", "Slice of Life"]
+    },
+    {
+        "id": 16,
+        "title": "Wonder Egg Priority",
+        "year": 2021,
+        "genre": ["Drama", "Fantasy", "Psychological"]
+    },
+    {
+        "id": 17,
+        "title": "To Your Eternity",
+        "year": 2021,
+        "genre": ["Adventure", "Drama", "Supernatural"]
+    },
+    {
+        "id": 18,
+        "title": "Tokyo Revengers",
+        "year": 2021,
+        "genre": ["Action", "Supernatural", "Drama"]
+    },
+    {
+        "id": 19,
+        "title": "86",
+        "year": 2021,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+    {
+        "id": 20,
+        "title": "Ranking of Kings",
+        "year": 2021,
+        "genre": ["Adventure", "Fantasy", "Drama"]
+    },
+    {
+        "id": 21,
+        "title": "Odd Taxi",
+        "year": 2021,
+        "genre": ["Mystery", "Drama"]
+    },
+    {
+        "id": 22,
+        "title": "Chainsaw Man",
+        "year": 2022,
+        "genre": ["Action", "Horror", "Supernatural"]
+    },
+    {
+        "id": 23,
+        "title": "Spy x Family",
+        "year": 2022,
+        "genre": ["Action", "Comedy", "Family"]
+    },
+    {
+        "id": 24,
+        "title": "Blue Lock",
+        "year": 2022,
+        "genre": ["Sports", "Psychological"]
+    },
+    {
+        "id": 25,
+        "title": "Lycoris Recoil",
+        "year": 2022,
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+        "id": 26,
+        "title": "Bocchi the Rock!",
+        "year": 2022,
+        "genre": ["Comedy", "Music", "Slice of Life"]
+    },
+    {
+        "id": 27,
+        "title": "Mob Psycho 100 III",
+        "year": 2022,
+        "genre": ["Action", "Comedy", "Superpower"]
+    },
+    {
+        "id": 28,
+        "title": "Vinland Saga Season 2",
+        "year": 2023,
+        "genre": ["Action", "Adventure", "Historical"]
+    },
+    {
+        "id": 29,
+        "title": "Hell's Paradise",
+        "year": 2023,
+        "genre": ["Action", "Fantasy", "Horror"]
+    },
+    {
+        "id": 30,
+        "title": "Oshi no Ko",
+        "year": 2023,
+        "genre": ["Drama", "Mystery", "Psychological"]
+    }
+]
